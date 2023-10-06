@@ -3,7 +3,7 @@
 - 👀 I’m interested in Games, AI & Formula 1
 - 🌱 I’m currently learning Web, AI applications & game development
 - 💻 I’m looking to collaborate on any project
-- 📫 Reach me @ waltersmarinho@edu.unifil.br
+- 📫 Reach me @ waltmarinho@gmail.com
 
 
 
