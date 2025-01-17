@@ -5,7 +5,7 @@
 - 💻 I’m looking to collaborate on any project
 - 📫 Reach me @ waltmarinho@gmail.com
 
-[![Walter's GitHub stats](https://github-readme-stats.vercel.app/api?username=walttsm&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walttsm&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Walter's GitHub stats](https://github-readme-stats.vercel.app/api?username=walttsm&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)      [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walttsm&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
