@@ -5,7 +5,7 @@
 - 💻 I’m looking to collaborate on any project
 - 📫 Reach me @ waltmarinho@gmail.com
 
-
+[![Walter's GitHub stats](https://github-readme-stats.vercel.app/api?username=walttsm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 walttsm/walttsm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
